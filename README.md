@@ -4,7 +4,7 @@ Captcha generation using GUI in python, also validating the captcha to get to th
 """
 Created on Tue Nov 12 13:08:35 2019
 
-@author: joshp
+@author: charan
 """
 
 from tkinter import *
