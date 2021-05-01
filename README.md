@@ -1,2 +1,2 @@
-# Captcha_gui-py-
+# Captcha Using GUI-py-
 Captcha generation along with GUI in python.
